@@ -94,17 +94,9 @@ height="30" width="40"/>
 
 ---
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbagalkot&show_icons=true&locale=en&layout=compact"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbagalkot&layout=compact)
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true&locale=en"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true)
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbagalkot"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sagarbagalkot)
+
