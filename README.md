@@ -92,11 +92,10 @@ height="30" width="40"/>
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbagalkot&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbagalkot&layout=compact&cache_seconds=1800)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true&cache_seconds=1800)
 
 ### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sagarbagalkot)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=sagarbagalkot)
