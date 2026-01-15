@@ -91,12 +91,3 @@ height="30" width="40"/>
 </p>
 
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbagalkot&layout=compact&theme=default&cache_seconds=3600)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true&theme=default&cache_seconds=3600)
-
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sagarbagalkot&theme=default)
-
