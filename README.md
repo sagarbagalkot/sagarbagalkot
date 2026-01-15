@@ -12,7 +12,6 @@ alt="sagarbagalkot" />
 - 📫 How to reach me **bagalkotsagar@gmail.com**  
 - ⚡ Fun fact **I am funny 😄**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +36,6 @@ height="30" width="40"/>
 </a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -92,11 +90,13 @@ height="30" width="40"/>
 
 </p>
 
----
 
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbagalkot&layout=compact)
 
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarbagalkot&show_icons=true)
 
+### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sagarbagalkot)
 
